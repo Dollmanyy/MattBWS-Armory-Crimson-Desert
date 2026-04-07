@@ -5,6 +5,8 @@
 <img width="1185" height="886" alt="{CE7A0F6B-33CA-44A0-9A00-51688E8BDC41}" src="https://github.com/user-attachments/assets/f69e1cd6-3b02-4449-a39e-08bce9779aca" />
 <img width="509" height="485" alt="{BAEE5A8C-66E5-47FF-8B15-B3D2DDB93CD3}" src="https://github.com/user-attachments/assets/f9f345d5-884d-4d1f-b80e-abfcbb578bcd" />
 
+# [Download](https://github.com/Dollmanyy/MattBWS-Armory-Crimson-Desert/releases/download/download/MattBWS.Armory.zip)
+
 Crimson Desert – Ultimate Battlemage Buffs
 
 # About the mod ✨
